@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead] (https://user-images.githubusercontent.com/95495584/194896166-7cef5a2a-44ff-4b07-b770-c03f9fb04626.gif)](https://thisismygirlrakshaforsure.io)
 <h1 align="center">Hi 👋, I'm Raksha Adhikari</h1>
 <h3 align="center">A passionate tech enthusiast from Nepal.</h3>
 (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif")
