@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Learning**
 
-- 🌱 I’m currently learning **Programming languages.**
+- 🌱 I’m currently  Studying **Architecture.**
 
 - 📝 I usually write articles on [@rakshaadhikari_8989](@rakshaadhikari_8989)
 
