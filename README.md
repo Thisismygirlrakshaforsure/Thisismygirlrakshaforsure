@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Raksha Adhikari</h1>
-<h3 align="center">A passionate tech enthusiast from Nepal. 18 yeasrs old girl.</h3>
+<h3 align="center">A passionate tech enthusiast from Nepal. 18 years old girl. Born to die.</h3>
 
 - 🔭 I’m currently working on **Learning New Things Of This World**
 
